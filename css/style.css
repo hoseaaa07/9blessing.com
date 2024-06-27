@@ -1190,7 +1190,7 @@ body {
   color: rgb(139 92 246 / var(--tw-text-opacity));
 }
 
-@media (min-width: 640px) {
+@media (min-width: 580px) {
   .sm\:mt-0 {
     margin-top: 0px;
   }
